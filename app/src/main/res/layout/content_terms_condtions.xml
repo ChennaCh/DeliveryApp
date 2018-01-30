@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="#99e2d1"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.chinna.deliveryapp.TermsCondtions"
+    tools:showIn="@layout/activity_terms_condtions">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"
+        android:text="Terms and Conditions of Food :"
+        android:textSize="20dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"
+        android:text="All content included on this site, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the property of Quality Food Services or its content suppliers and protected by international copyright laws. The compilation of all content on this site is the exclusive property of Quality Food Services and protected by international copyright laws. All software used on this site is the property of Quality Food Services or its software suppliers and protected by international copyright laws."/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"
+        android:text="LICENSE AND SITE ACCESS"
+        android:textSize="20dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"
+        android:text="All content included on this site, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the property of Quality Food Services or its content suppliers and protected by international copyright laws. The compilation of all content on this site is the exclusive property of Quality Food Services and protected by international copyright laws. All software used on this site is the property of Quality Food Services or its software suppliers and protected by international copyright laws."/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"
+        android:text="COPYRIGHT"
+        android:textSize="20dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"
+        android:text="All content included on this site, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the property of Quality Food Services or its content suppliers and protected by international copyright laws. The compilation of all content on this site is the exclusive property of Quality Food Services and protected by international copyright laws. All software used on this site is the property of Quality Food Services or its software suppliers and protected by international copyright laws"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"
+        android:text="YOUR ACCOUNT"
+        android:textSize="20dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"
+        android:text="If you use this site, you are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. Quality Food Services does sell products for children, but it sells them to adults, who can purchase with a credit card. If you are under 18, you may use Quality Food Services only with involvement of a parent or guardian. Quality Food Services and its affiliates reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders in their sole discretion."/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

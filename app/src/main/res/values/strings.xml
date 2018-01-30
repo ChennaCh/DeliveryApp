@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DeliveryApp</string>
+
+    <string name="font_fontFamily_medium">sans-serif</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signin">DeliveryApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_amount">Amount</string>
+    <string name="title_activity_terms_condtions">TermsCondtions</string>
+    <string name="title_activity_sample_activty">SampleActivty</string>
+    <string name="title_activity_customl_list">Chicken Items</string>
+</resources>

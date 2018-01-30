@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="3.0"
+    tools:context="com.example.chinna.deliveryapp.ChickenFragment">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/chickenpizza"
+        android:background="@drawable/pizzaa"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:text="Chicken Pizza"
+        android:layout_weight="1.0"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/coffe"
+        android:background="@drawable/cofeee"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:text="Coffe"
+        android:layout_weight="1.0"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sandwitch"
+        android:background="@drawable/sandd"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:text="Chicken Sandwitch"
+        android:layout_weight="1.0"
+        />
+    </LinearLayout>
